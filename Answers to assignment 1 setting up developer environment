@@ -1,0 +1,56 @@
+1. Select Your Operating System (OS):   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11y
+Visit the Windows 11 Download Page: Go to the official Microsoft Windows 11 download page.
+
+Select Installation Method: 
+Windows 11 Installation Assistant: Best for upgrading a current Windows 10 device.
+Create Windows 11 Installation Media: For clean installs using a USB or DVD.
+Download Windows 11 Disk Image (ISO): For creating bootable media or virtual machines.
+Follow Instructions: Each option has specific steps, including verifying system requirements, downloading tools, and running installers.
+Requirements: A valid Windows 10 license, an internet connection,  adequate storage space (at least 9 GB for the installation assistant).
+
+
+
+
+2. Install a Text Editor or Integrated Development Environment (IDE):   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+To get started with Visual Studio Code (VSCode) on Windows, first download and install it from the VSCode website. Follow the prompts in the installer to complete the setup. Next, set up version control by installing Git. Download the Windows installer from the Git website, run it, and make sure to add Git to your system PATH during installation. After installing Git, open a terminal (Command Prompt or Git Bash) and configure your Git username and email using git config --global user.name "Your Name" and git config --global user.email "your.email@example.com". Then, create a GitHub account at the GitHub website if you don't already have one and set up a new repository.
+
+
+
+
+3. Set Up Version Control System:   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+To set up Git version control, download Git from their website, install it, and make sure to add it to your system PATH. In a terminal, configure your Git username and email using the appropriate commands. If you don't have a GitHub account, create one to store your code repositories.
+
+
+
+
+4. Install Necessary Programming Languages and Runtimes:  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+Install Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code. For Python development, download the installer from the Python website and ensure you check the option to add Python to your PATH during installation. To work with Dart and Flutter, download Dart from the Dart website and follow the instructions. For Flutter, download the Flutter SDK from the Flutter website, extract it, and place it in a desired location (e.g., C:\src\flutter). Add the Flutter SDK to your system PATH by editing your environment variables and adding the path to the flutter\bin directory.
+
+
+
+5. Install Package Managers:   If applicable, install package managers like pip (Python).
+After successfully installing python, go to VS code  open the integrated terminal by pressing Ctrl+`` or going to View > Terminal`. 
+Run pip --version
+
+
+
+
+
+6. Configure a Database (MySQL):
+   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+To set up MySQL, download the installer from the MySQL website, run it, and follow the prompts. In VSCode, install necessary extensions by going to the Extensions view (Ctrl+Shift+X). Search for and install the  "SQLTools" extension for MySQL with a MySQL/MariaDB driver. For Django development, search for and install the "Django" extension by Baptiste Darthenay.
+
+
+
+
+8. Explore Extensions and Plugins:
+   Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+Ensure you have the necessary plugins for a complete setup. The Python extension comes with features like IntelliSense, linting, debugging, and Jupyter Notebook support. The Dart and Flutter extensions provide comprehensive support for Dart and Flutter development. For GitHub integration, install the "GitHub Pull Requests and Issues" extension and configure it to connect to your GitHub account. Adjust VSCode settings as needed for version control, Python interpreter selection, Dart and Flutter SDK paths, and database management to complete your development environment.
+
+
+
+
+9. Document Your Setup:
+    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
