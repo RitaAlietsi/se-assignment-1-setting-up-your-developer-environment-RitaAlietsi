@@ -21,12 +21,17 @@ To get started with Visual Studio Code (VSCode) on Windows, first download and i
 3. Set Up Version Control System:   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 To set up Git version control, download Git from their website, install it, and make sure to add it to your system PATH. In a terminal, configure your Git username and email using the appropriate commands. If you don't have a GitHub account, create one to store your code repositories.
+![alt text](image.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 
 
 
 4. Install Necessary Programming Languages and Runtimes:  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 Install Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code. For Python development, download the installer from the Python website and ensure you check the option to add Python to your PATH during installation. To work with Dart and Flutter, download Dart from the Dart website and follow the instructions. For Flutter, download the Flutter SDK from the Flutter website, extract it, and place it in a desired location (e.g., C:\src\flutter). Add the Flutter SDK to your system PATH by editing your environment variables and adding the path to the flutter\bin directory.
+![alt text](image-5.png)
+
 
 
 
@@ -41,13 +46,16 @@ Run pip --version
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 To set up MySQL, download the installer from the MySQL website, run it, and follow the prompts. In VSCode, install necessary extensions by going to the Extensions view (Ctrl+Shift+X). Search for and install the  "SQLTools" extension for MySQL with a MySQL/MariaDB driver. For Django development, search for and install the "Django" extension by Baptiste Darthenay.
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 Ensure you have the necessary plugins for a complete setup. The Python extension comes with features like IntelliSense, linting, debugging, and Jupyter Notebook support. The Dart and Flutter extensions provide comprehensive support for Dart and Flutter development. For GitHub integration, install the "GitHub Pull Requests and Issues" extension and configure it to connect to your GitHub account. Adjust VSCode settings as needed for version control, Python interpreter selection, Dart and Flutter SDK paths, and database management to complete your development environment.
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 
 
